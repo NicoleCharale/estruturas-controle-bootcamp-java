@@ -7,7 +7,7 @@ public class Main {
         System.out.print("Informe um número inicial: ");
         int numInicial = scanner.nextInt();
 
-        System.out.println("Informe mais números até que o resto de divisão por %d seja diferente de 0:");
+        System.out.printf("Informe mais números até que o resto de divisão por %d seja diferente de 0:\n", numInicial);
 
         do {
             int num = scanner.nextInt();

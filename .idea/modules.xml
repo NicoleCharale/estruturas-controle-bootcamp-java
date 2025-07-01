@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Estruturas de Controle.iml" filepath="$PROJECT_DIR$/.idea/Estruturas de Controle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IMC/IMC.iml" filepath="$PROJECT_DIR$/IMC/IMC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParImpar/ParImpar.iml" filepath="$PROJECT_DIR$/ParImpar/ParImpar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestoDivisao/RestoDivisao.iml" filepath="$PROJECT_DIR$/RestoDivisao/RestoDivisao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tabuada/Tabuada.iml" filepath="$PROJECT_DIR$/Tabuada/Tabuada.iml" />
+    </modules>
+  </component>
+</project>
